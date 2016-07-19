@@ -87,7 +87,7 @@ animationGroup([a1, a2]).autoreverses().apply()
 All of this code is very much a _*work in progress*_. I'm adding and changing functionality as needed.
 
 Your help wanted. Please fork this project and submit pull requests or [issues][issues].
-[issues]: https://github.com/rhcad/ShapeAnimation-Swift/issues
+[issues]: https://github.com/lukamarin/ShapeAnimation-Swift/issues
 
 Contributions are always welcome in the following areas:
 
